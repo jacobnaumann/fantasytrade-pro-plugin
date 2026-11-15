@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fantasytrade-pro": {
+      "type": "http",
+      "url": "https://fantasytrade.pro/api/mcp"
+    }
+  }
+}
