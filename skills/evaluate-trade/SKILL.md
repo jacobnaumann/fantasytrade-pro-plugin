@@ -32,7 +32,7 @@ Draft picks have no value in redraft. If a redraft trade includes picks, ask whe
 
 Lead with the verdict in the tool's own words ("Leans their way", "You win", "Fair trade"), then:
 
-1. The confidence and the gap between the sides.
+1. How sure the call is and the gap between the sides. With a winner, give `confidence_in_verdict_pct` as the confidence. When the result has `too_close_to_call`, there is no confidence figure: say it is too close to call and, if useful, give `chance_you_come_out_ahead_pct` as the user's chance of coming out ahead.
 2. Each side's assets with their values, in a short table when there are more than two assets in total.
 3. The reasons the tool gives, in plain sentences. If a roster-spot cost was applied (one side gets more players than it gives), explain it: the extra player pushes someone to the bench, so the weakest piece counts for less.
 4. What would even it out, if the tool suggests something.
