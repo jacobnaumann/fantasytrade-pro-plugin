@@ -1,10 +1,12 @@
 {
   "name": "fantasytrade-pro",
   "displayName": "FantasyTrade Pro",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Judge NFL fantasy football trades for dynasty and redraft leagues: who wins, how sure the verdict is, what every player and rookie pick is worth under your league's settings, and what a fair offer looks like.",
   "author": { "name": "FantasyTrade Pro", "url": "https://fantasytrade.pro" },
   "homepage": "https://fantasytrade.pro/mcp/",
+  "privacyPolicyUrl": "https://fantasytrade.pro/privacy/",
+  "icon": "./.claude-plugin/icon.png",
   "license": "MIT",
   "keywords": ["fantasy-football", "nfl", "dynasty", "redraft", "trade-analyzer", "trade-values", "rankings"]
 }
